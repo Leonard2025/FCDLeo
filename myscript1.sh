@@ -6,7 +6,7 @@ else
 echo "you cannot"
 fi
 
-Name="Olabi Leonard WOROU"
+Name="Omy name"
 DOB="19 November 1890"
 echo " my name is $Name and borned on $DOB"
 
